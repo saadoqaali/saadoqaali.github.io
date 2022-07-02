@@ -3,6 +3,8 @@ Body {
   color: #0D0D0C;
   font-family: Arial,Times New Roman, sans-serif;
   Margin: 5% 5%;
+  .exp-header{
+    text-align: center;
 }
 .exp-header {
   text-align: center;
