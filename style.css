@@ -11,8 +11,8 @@
    background-repeat: no-repeat;
   
  }
+
 .dark-mode {
-  background: none;
   background-color: black;
   color: white;
 }
