@@ -150,7 +150,7 @@ height: .2rem;
 background-color: #6418cf;
 border-radius: 12px;
 right: 0;
-top: 50%;
+
 transform: translateY(-50%);
 }
 .sect{
