@@ -23,8 +23,8 @@
   grid-template-columns: repeat(7, 1fr)
 }
 .left-section{
-  padding-left: 7%;
-  Padding-right:2%;
+  padding-left: 12%;
+  Padding-right:6%;
   margin-right:0;
   grid-column: span 2;
   align-items: flex-start;
