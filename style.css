@@ -82,9 +82,7 @@
     letter-spacing: 1px;
     color: #f7f7f7ec;
     padding-top: 3rem;
-
   }
-
   .contact-info{
     font-size: 1.2rem;
     color:whitesmoke;
@@ -92,6 +90,7 @@
     text-transform: uppercase;
     letter-spacing:1px;
   }
+
   .contact-info ul{
     padding-top: 2rem ;
   }
@@ -101,7 +100,6 @@
   display:flex;
   color: #220e92;
 }
-
 .core-strengths{
   padding-top: 3rem;
 font-size: 1.2rem;
@@ -111,11 +109,9 @@ font-size: 1.2rem;
   letter-spacing:1px;
   padding-bottom: 0.2rem;                                                                                          
 }
-
 .core-strengths ul li{
     padding-top: 2rem;
-    Padding-left:0;
-    
+    Padding-left:0;    
 }
 
 .right-main-content{
