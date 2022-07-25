@@ -24,6 +24,7 @@
 }
 .left-section{
   padding-left: 7%;
+  Padding-right:2%;
   margin-right:0;
   grid-column: span 2;
   align-items: flex-start;
@@ -32,9 +33,11 @@
 }
 .right-section{
   Padding-left:2%;
+  padding-right: 2%;
   grid-column: span 5;
   background-color: whitesmoke;
   height: 101%;
+
 } 
 
 .left-content{
