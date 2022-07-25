@@ -150,11 +150,10 @@ height: .2rem;
 background-color: #6418cf;
 border-radius: 12px;
 right: 0;
-
 transform: translateY(-50%);
 }
 .sect{
-padding-top:0;
+padding-top:20px;
 padding-bottom: 2rem;
 }
 
