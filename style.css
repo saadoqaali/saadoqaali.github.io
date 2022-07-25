@@ -11,6 +11,11 @@
    background-repeat: no-repeat;
   
  }
+.dark-mode {
+  background: none;
+  background-color: black;
+  color: white;
+}
 .main-content{
   min-height: 100vh;
   width: 80%;
