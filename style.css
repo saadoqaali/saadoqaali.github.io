@@ -23,7 +23,7 @@
   grid-template-columns: repeat(7, 1fr)
 }
 .left-section{
-  Padding-left:7%;
+  padding-left: 7%;
   margin-right:0;
   grid-column: span 2;
   align-items: flex-start;
@@ -31,16 +31,14 @@
   background-color:#0091B5;
 }
 .right-section{
-  Padding-left:1.5%;
+  Padding-left:2%;
   grid-column: span 5;
   background-color: whitesmoke;
   height: 101%;
-
 } 
+
 .left-content{
   Padding:2rem 3rem;
- 
-
 }
 .profile {
   width: 100%;
